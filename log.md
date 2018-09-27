@@ -16,3 +16,12 @@
 **Thoughts:** I will be completing my pending task first and then start new things.
 
 **Link to work:** [Udemy Forkify Project](https://github.com/mrdua/WebDevelopmentPractice/tree/master/forkify)
+
+---
+
+### Day 2: September 27, 2018
+
+**Today's Progress**: Continue *Complete JavaScript* Tutorial on Udemy. Worked on displaying the list of items on the UI and manupulating their values based on the increase and deacrease buttons.
+**Thoughts:** Learned the practical use of splice(),slice(),findIndex(),find(),matches(),closest() methods.
+
+**Link to work:** [Udemy Forkify Project](https://github.com/mrdua/WebDevelopmentPractice/tree/master/forkify)
