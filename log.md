@@ -25,3 +25,12 @@
 **Thoughts:** Learned the practical use of splice(),slice(),findIndex(),find(),matches(),closest() methods.
 
 **Link to work:** [Udemy Forkify Project](https://github.com/mrdua/WebDevelopmentPractice/tree/master/forkify)
+
+---
+
+### Day 3: September 28, 2018
+
+**Today's Progress**: Started learning about How GIT works, version control, branching, merge and distributed version control.
+**Thoughts:** Started this course on plurasight by Paolo Perrotta and honestly course gives alot of insight about GIT which I never knew.
+
+**Link to work:** [How GIT Works](https://app.pluralsight.com/library/courses/how-git-works/table-of-contents)
