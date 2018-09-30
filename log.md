@@ -1,31 +1,24 @@
 # 100 Days Of Code - Log
 
-### Day 0: September 25, 2018
+### Day 5: September 30, 2018
 
-**Today's Progress**: Completed Markdown Crash Course
+**Today's Progress**: Continue my JavaScript course on udemy, Implemented the likes controller. Also, did the JavaScript30 challenge till date I have completed 4 projects in 2 days. Today, I learned the Array functions such as sort(), filter(), reduce(), map().
 
-**Thoughts:** I will be using markdown on daily basis. So, I thought it will be good if I start with learning the use and basic fundamentals of markdown.
-
-**Link to work:** [Markdown Cheatsheet](https://github.com/mrdua/WebDevelopmentPractice/tree/master/markdown)
-
----
-### Day 1: September 26, 2018
-
-**Today's Progress**: Continue *Complete JavaScript* Tutorial on Udemy. Worked on a small code for updating the UI based on the clicking plus and minus buttons.
-
-**Thoughts:** I will be completing my pending task first and then start new things.
+**Thoughts:**: My JavaScript course is consuming my too much of time because of the very low API usage I am not able to complete the project. its good I have also started the JavaScript30 along with this and I am utilizing my time properly.
 
 **Link to work:** [Udemy Forkify Project](https://github.com/mrdua/WebDevelopmentPractice/tree/master/forkify)
+ | [JavaScript30 Challenge](https://github.com/mrdua/JavaScript30)
 
 ---
 
-### Day 2: September 27, 2018
+### Day 4: September 29, 2018
 
-**Today's Progress**: Continue *Complete JavaScript* Tutorial on Udemy. Worked on displaying the list of items on the UI and manupulating their values based on the increase and deacrease buttons.
+**Today's Progress**: Continue my JavaScript course on udemy, Implemented the likes model and view. Started with #JavaScript30 Challenge, completed 3 challenges as of today.
 
-**Thoughts:** Learned the practical use of splice(),slice(),findIndex(),find(),matches(),closest() methods.
+**Thoughts:**: Continue with my JavaScript course have to stop the course in between due to my API key usage is full for today. Also, stated with JavaScript30 Challenge and really enjoying it a lot.
 
 **Link to work:** [Udemy Forkify Project](https://github.com/mrdua/WebDevelopmentPractice/tree/master/forkify)
+ | [JavaScript30 Challenge](https://github.com/mrdua/JavaScript30)
 
 ---
 
@@ -39,11 +32,34 @@
 
 ---
 
-### Day 4: September 29, 2018
+### Day 2: September 27, 2018
 
-**Today's Progress**: Continue my JavaScript course on udemy, Implemented the likes model and view. Started with #JavaScript30 Challenge, completed 3 challenges as of today.
+**Today's Progress**: Continue *Complete JavaScript* Tutorial on Udemy. Worked on displaying the list of items on the UI and manupulating their values based on the increase and deacrease buttons.
 
-**Thoughts:**: Continue with my JavaScript course have to stop the course in between due to my API key usage is full for today. Also, stated with JavaScript30 Challenge and really enjoying it a lot.
+**Thoughts:** Learned the practical use of splice(),slice(),findIndex(),find(),matches(),closest() methods.
 
 **Link to work:** [Udemy Forkify Project](https://github.com/mrdua/WebDevelopmentPractice/tree/master/forkify)
- | [JavaScript30 Challenge](https://github.com/mrdua/JavaScript30)
+
+---
+---
+### Day 1: September 26, 2018
+
+**Today's Progress**: Continue *Complete JavaScript* Tutorial on Udemy. Worked on a small code for updating the UI based on the clicking plus and minus buttons.
+
+**Thoughts:** I will be completing my pending task first and then start new things.
+
+**Link to work:** [Udemy Forkify Project](https://github.com/mrdua/WebDevelopmentPractice/tree/master/forkify)
+
+---
+
+### Day 0: September 25, 2018
+
+**Today's Progress**: Completed Markdown Crash Course
+
+**Thoughts:** I will be using markdown on daily basis. So, I thought it will be good if I start with learning the use and basic fundamentals of markdown.
+
+**Link to work:** [Markdown Cheatsheet](https://github.com/mrdua/WebDevelopmentPractice/tree/master/markdown)
+
+
+
+
