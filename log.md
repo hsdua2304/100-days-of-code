@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 6: October 1, 2018
+
+**Today's Progress**: Finally done with Udemy project. Implemented the localstorage functionality for tracking the liked recipes.
+
+**Thoughts:**: Localstorage is good functionality to keep the data offline on the browser but still there is lot more to learn about the local storage will continue with improving the app.
+
+**Link to work:** [Udemy Forkify Project](https://github.com/mrdua/WebDevelopmentPractice/tree/master/forkify)
+
+---
+
 ### Day 5: September 30, 2018
 
 **Today's Progress**: Continue my JavaScript course on udemy, Implemented the likes controller. Also, did the JavaScript30 challenge till date I have completed 4 projects in 2 days. Today, I learned the Array functions such as sort(), filter(), reduce(), map().
