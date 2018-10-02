@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 7: October 2, 2018
+
+**Today's Progress**
+1. Started working on Personal Portfolio.
+1. Started learning Advance CSS.
+    * clip-path
+    * Transform
+    * backface-visibilty
+    * psuedo elements
+    * Keyframes
+
+**Thoughts:**: Really struggled in making my portfolio look good. So, decided to learn some advance css in order to make a good portfolio.
+
+**Link to work:** [Personal Portfolio](https://github.com/mrdua/PersonalPortfolio) |
+[Advance CSS and Sass](https://github.com/mrdua/Advance-CSS-and-Sass)
+
+---
+
 ### Day 6: October 1, 2018
 
 **Today's Progress**: Finally done with Udemy project. Implemented the localstorage functionality for tracking the liked recipes.
