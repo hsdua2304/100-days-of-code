@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 8: October 3, 2018
+
+**Today's Progress**
+1. Made a cool button from pure CSS on codepen.
+1. Understanding how CSS works behind the scenes.
+
+**Thoughts:**: From the past learning learn to make the cool css button. Continued with learning advance css.
+
+**Link to work:** [Pure CSS Button](https://codepen.io/hsdua2304/pen/GYoxoq)
+
+---
+
 ### Day 7: October 2, 2018
 
 **Today's Progress**
