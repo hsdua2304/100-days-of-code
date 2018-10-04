@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 9: October 4, 2018
+
+**Today's Progress**
+1. Learned about the backend process of CSS values.
+1. Learned about the Cascading in CSS
+1. Learned about the Specificity in CSS
+1. Learned about the rem's,em's,vh and vw
+
+**Thoughts:**: I didn't knew these things earlies its good that I spent my time in learning how CSS works behind the scences. These terms are really new to me and never thought about the use of these values.
+
+**Link to work:** [CSS Values](https://codepen.io/hsdua2304/pen/XxKJEJ?editors=1100) | [CSS Cascade](https://codepen.io/hsdua2304/pen/yROrjd)
+
+---
+
 ### Day 8: October 3, 2018
 
 **Today's Progress**
