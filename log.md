@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 10: October 6, 2018
+
+**Today's Progress**
+1. Practiced CSS keyframes
+1. Learned more about transform function
+1. Continue learning Sass and Advance CSS.
+
+**Thoughts:**: Due to travelling I am getting very less time now a days but still I have managed to take my time from all this and continued learning the advance CSS and next will start learning about Sass.
+
+**Link to work:** [CSS Buttons](https://codepen.io/hsdua2304/pen/bmwLrz?editors=1100)
+
+---
+
 ### Day 9: October 4, 2018
 
 **Today's Progress**
