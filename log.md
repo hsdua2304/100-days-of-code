@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 11: October 8, 2018
+
+**Today's Progress**
+1. Started Learning Sass
+1. Practiced along with the Sass Tutorial
+
+**Thoughts:**: Started Leaning Sass and its fundamental terms such as using variable, mixins, extend, bult-in functions and user-defined functions.
+
+**Link to work:** [SASS Practice Code](https://github.com/mrdua/Advance-CSS-and-Sass/tree/master/SassPractice)
+
+---
+
 ### Day 10: October 6, 2018
 
 **Today's Progress**
