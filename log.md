@@ -1,12 +1,24 @@
 # 100 Days Of Code - Log
 
+### Day 12: October 9, 2018
+
+**Today's Progress**
+1. Continued with my SASS tutorials
+1. Implemented BEM and 7 in 1 Architecture in HTML and SASS
+
+**Thoughts:**: Watched further more videos on sass and started implementing the BEM and 7 in 1 architecture. Both of these terminologies are new to me, I really enjoyed by learning about them.
+
+**Link to work:** [Natours Project](https://github.com/mrdua/Advance-CSS-and-Sass/tree/master/Natours)
+
+---
+
 ### Day 11: October 8, 2018
 
 **Today's Progress**
 1. Started Learning Sass
 1. Practiced along with the Sass Tutorial
 
-**Thoughts:**: Started Leaning Sass and its fundamental terms such as using variable, mixins, extend, bult-in functions and user-defined functions.
+**Thoughts:**: Started Leaning Sass and its fundamental terms such as using variable, mixins, extend, built-in functions and user-defined functions.
 
 **Link to work:** [SASS Practice Code](https://github.com/mrdua/Advance-CSS-and-Sass/tree/master/SassPractice)
 
