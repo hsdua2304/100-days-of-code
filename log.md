@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 13: October 11, 2018
+
+**Today's Progress**
+1. Continued with SASS and Advance CSS tutorials
+1. Learned about the grid system with floats, without using the flexbox and cssgrid.
+1. Learned about not() psuedo element, calc() function, selecting mutiple classes starting with particular extention [class^=.col-]
+
+**Thoughts:**: Continued with my SASS and Advance CSS tutorials and learned a lot today about not() psuedo element, calc() function.
+
+**Link to work:** [Natours Project](https://github.com/mrdua/Advance-CSS-and-Sass/tree/master/Natours)
+
+---
+
 ### Day 12: October 9, 2018
 
 **Today's Progress**
