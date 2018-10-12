@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 14: October 12, 2018
+
+**Today's Progress**
+1. Implemented the flip cards using CSS.
+1. Watched Advance CSS tutorials
+
+**Thoughts:**: Today, all my learning is done during my travel in train. Really utilized my time while travelling and watch advance css tutorials.
+
+**Link to work:** [Natours Project](https://github.com/mrdua/Advance-CSS-and-Sass/tree/master/Natours)
+
+---
+
 ### Day 13: October 11, 2018
 
 **Today's Progress**
