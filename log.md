@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 15: October 16, 2018
+
+**Today's Progress**
+1. Completed the flip cards using CSS.
+1. Watched Advance CSS tutorials.
+1. Design Stacked Card Images on Code Pen
+
+**Thoughts:**: Today, all my learning is done during my travel in train. Really utilized my time while travelling and watch advance css tutorials.
+
+**Link to work:** [Natours Project](https://github.com/mrdua/Advance-CSS-and-Sass/tree/master/Natours) | [ Stacked Image Gallery](https://codepen.io/hsdua2304/pen/OBxKOZ)
+
+---
+
 ### Day 14: October 12, 2018
 
 **Today's Progress**
