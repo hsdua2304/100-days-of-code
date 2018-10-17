@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 16: October 17, 2018
+
+**Today's Progress**
+1. Completed the testimonial section of the Natours project
+1. Also learned to add the video on the background.
+
+**Thoughts:**: Currently I am going through the tutorials to basically learn more front end concept. It is becomming very difficult to code and do day job regularly.
+
+**Link to work:** [Natours Project](https://github.com/mrdua/Advance-CSS-and-Sass/tree/master/Natours)
+---
+
 ### Day 15: October 16, 2018
 
 **Today's Progress**
