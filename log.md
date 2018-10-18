@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 17: October 18, 2018
+
+**Today's Progress**
+1. Completed the Booking section of the Natours project
+1. Started the implementing the navigation part.
+
+**Thoughts:**: Really enjoying the Advance CSS and SASS course their is lot to learn from this course I don''t know whether I can remember so muchh of concepts.
+
+**Link to work:** [Natours Project](https://github.com/mrdua/Advance-CSS-and-Sass/tree/master/Natours)
+---
+
 ### Day 16: October 17, 2018
 
 **Today's Progress**
