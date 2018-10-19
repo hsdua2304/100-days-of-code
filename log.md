@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 18: October 19, 2018
+
+**Today's Progress**
+1. Completed the navigation section
+1. Implemented the popup section of the project
+
+**Thoughts:**: Today I have learned a lot about designing the navigation and the popups completely in css.
+Next going to start the responsive design.
+
+**Link to work:** [Natours Project](https://github.com/mrdua/Advance-CSS-and-Sass/tree/master/Natours)
+---
+
 ### Day 17: October 18, 2018
 
 **Today's Progress**
