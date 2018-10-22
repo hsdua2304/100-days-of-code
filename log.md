@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log
 
+### Day 20: October 22, 2018
+
+**Today's Progress**
+1. Completed with responsive design of the web page
+1. Written lots of media queries in order to make the page completely repesponsive.
+
+**Thoughts:**: Today, I have completed the responsive design of the natuours web page. Next, topic to be covered is Responsive Images
+
+**Link to work:** [Natours Project](https://github.com/mrdua/Advance-CSS-and-Sass/tree/master/Natours)
+---
+
+### Day 19: October 21, 2018
+
+**Today's Progress**
+1. Started with the Responsive Design of the web page
+1. Made a media query manager uing SASS mixin to write media queries in all over the files.
+
+**Thoughts:**: Today, I have started the responsive design of the web page. Also, learned to write media queries in efficient way using sass mixins by making the media query manager.
+
+**Link to work:** [Natours Project](https://github.com/mrdua/Advance-CSS-and-Sass/tree/master/Natours)
+---
+
 ### Day 18: October 19, 2018
 
 **Today's Progress**
