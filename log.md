@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 21: October 23, 2018
+
+**Today's Progress**
+1. Completed with the responsive images.
+1. Also learend the brower support functionlity in css.
+
+**Thoughts:**: Learned about the responsive images and to chnage the image size and resolution based on the source tag, width of image and choosing images based on the resolution of the screen.Also, added the browser support functionality in the project.
+
+**Link to work:** [Natours Project](https://github.com/mrdua/Advance-CSS-and-Sass/tree/master/Natours)
+---
+
 ### Day 20: October 22, 2018
 
 **Today's Progress**
