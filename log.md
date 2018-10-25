@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 22: October 24, 2018
+
+**Today's Progress**
+1. Completed with the Natours project.
+
+**Thoughts:**: Learned a lot while practicing the natours project along with the udemy course. I will next try to implement the concepts in my portfolio and next projects. Now, I starting with the flexboxes.
+
+**Link to work:** [Natours Project](https://github.com/mrdua/Advance-CSS-and-Sass/tree/master/Natours)
+---
+
 ### Day 21: October 23, 2018
 
 **Today's Progress**
