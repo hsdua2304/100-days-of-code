@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 23: October 26, 2018
+
+**Today's Progress**
+1. Started Learning Flexbox.
+1. Starting the project along with flexbox
+
+**Thoughts:**: Now started with the next module in the Advance CSS and SASS course which flexbox. Till now watched basic flexbox videos and now implementing the project along with the tutorials.
+
+**Link to work:** [Trillo (FlexBox)](https://github.com/mrdua/Advance-CSS-and-Sass/tree/master/Trillo)
+---
+
 ### Day 22: October 24, 2018
 
 **Today's Progress**
