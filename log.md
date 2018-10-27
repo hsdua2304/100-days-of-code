@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 24: October 27, 2018
+
+**Today's Progress**
+1. Learned and implemented lots of flexbox techniques.
+1. Learned to design layouts using flexbox.
+
+**Thoughts:**: Implemented the flexbox techniques after learning it from the tutorials.
+
+**Link to work:** [Trillo (FlexBox)](https://github.com/mrdua/Advance-CSS-and-Sass/tree/master/Trillo)
+---
+
 ### Day 23: October 26, 2018
 
 **Today's Progress**
