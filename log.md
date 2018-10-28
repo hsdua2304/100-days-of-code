@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 25: October 28, 2018
+
+**Today's Progress**
+1. Complted with the flexbox tutorials.
+1. Also done the project in flexbox.
+1. Next few days will work on making the project more acurate.
+
+**Thoughts:**: Completed with the flexbox section now continue to complete the challenges in the flexbox section.
+
+**Link to work:** [Trillo (FlexBox)](https://github.com/mrdua/Advance-CSS-and-Sass/tree/master/Trillo)
+---
+
 ### Day 24: October 27, 2018
 
 **Today's Progress**
