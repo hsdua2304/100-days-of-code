@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 26: October 29, 2018
+
+**Today's Progress**
+1. Added the menu list while hovering the user icon.
+
+**Thoughts:**: Didn't get much time to do things today, so just implemeted the menu list in the existing project.
+
+**Link to work:** [Trillo (FlexBox)](https://github.com/mrdua/Advance-CSS-and-Sass/tree/master/Trillo)
+---
+
+
 ### Day 25: October 28, 2018
 
 **Today's Progress**
