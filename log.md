@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 27: October 30, 2018
+
+**Today's Progress**
+1. Worked on the navigation bar for the Trillo project.
+
+**Thoughts:**: Implemented the navigation bar for the trillo project.
+
+**Link to work:** [Trillo (FlexBox)](https://github.com/mrdua/Advance-CSS-and-Sass/tree/master/Trillo)
+---
+
 ### Day 26: October 29, 2018
 
 **Today's Progress**
