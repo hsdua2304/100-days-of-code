@@ -1,13 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 27: October 30, 2018
+### Day 27: October 31, 2018
 
 **Today's Progress**
 1. Worked on the navigation bar for the Trillo project.
+1. Finally done with Trillo
+1. Added responsive images.
 
 **Thoughts:**: Implemented the navigation bar for the trillo project.
 
 **Link to work:** [Trillo (FlexBox)](https://github.com/mrdua/Advance-CSS-and-Sass/tree/master/Trillo)
+
 ---
 
 ### Day 26: October 29, 2018
@@ -18,6 +21,7 @@
 **Thoughts:**: Didn't get much time to do things today, so just implemeted the menu list in the existing project.
 
 **Link to work:** [Trillo (FlexBox)](https://github.com/mrdua/Advance-CSS-and-Sass/tree/master/Trillo)
+
 ---
 
 
@@ -31,6 +35,7 @@
 **Thoughts:**: Completed with the flexbox section now continue to complete the challenges in the flexbox section.
 
 **Link to work:** [Trillo (FlexBox)](https://github.com/mrdua/Advance-CSS-and-Sass/tree/master/Trillo)
+
 ---
 
 ### Day 24: October 27, 2018
@@ -42,6 +47,7 @@
 **Thoughts:**: Implemented the flexbox techniques after learning it from the tutorials.
 
 **Link to work:** [Trillo (FlexBox)](https://github.com/mrdua/Advance-CSS-and-Sass/tree/master/Trillo)
+
 ---
 
 ### Day 23: October 26, 2018
@@ -53,6 +59,7 @@
 **Thoughts:**: Now started with the next module in the Advance CSS and SASS course which flexbox. Till now watched basic flexbox videos and now implementing the project along with the tutorials.
 
 **Link to work:** [Trillo (FlexBox)](https://github.com/mrdua/Advance-CSS-and-Sass/tree/master/Trillo)
+
 ---
 
 ### Day 22: October 24, 2018
@@ -63,6 +70,7 @@
 **Thoughts:**: Learned a lot while practicing the natours project along with the udemy course. I will next try to implement the concepts in my portfolio and next projects. Now, I starting with the flexboxes.
 
 **Link to work:** [Natours Project](https://github.com/mrdua/Advance-CSS-and-Sass/tree/master/Natours)
+
 ---
 
 ### Day 21: October 23, 2018
@@ -74,6 +82,7 @@
 **Thoughts:**: Learned about the responsive images and to chnage the image size and resolution based on the source tag, width of image and choosing images based on the resolution of the screen.Also, added the browser support functionality in the project.
 
 **Link to work:** [Natours Project](https://github.com/mrdua/Advance-CSS-and-Sass/tree/master/Natours)
+
 ---
 
 ### Day 20: October 22, 2018
@@ -85,6 +94,7 @@
 **Thoughts:**: Today, I have completed the responsive design of the natuours web page. Next, topic to be covered is Responsive Images
 
 **Link to work:** [Natours Project](https://github.com/mrdua/Advance-CSS-and-Sass/tree/master/Natours)
+
 ---
 
 ### Day 19: October 21, 2018
@@ -96,6 +106,7 @@
 **Thoughts:**: Today, I have started the responsive design of the web page. Also, learned to write media queries in efficient way using sass mixins by making the media query manager.
 
 **Link to work:** [Natours Project](https://github.com/mrdua/Advance-CSS-and-Sass/tree/master/Natours)
+
 ---
 
 ### Day 18: October 19, 2018
@@ -108,6 +119,7 @@
 Next going to start the responsive design.
 
 **Link to work:** [Natours Project](https://github.com/mrdua/Advance-CSS-and-Sass/tree/master/Natours)
+
 ---
 
 ### Day 17: October 18, 2018
@@ -119,6 +131,8 @@ Next going to start the responsive design.
 **Thoughts:**: Really enjoying the Advance CSS and SASS course their is lot to learn from this course I don''t know whether I can remember so muchh of concepts.
 
 **Link to work:** [Natours Project](https://github.com/mrdua/Advance-CSS-and-Sass/tree/master/Natours)
+
+
 ---
 
 ### Day 16: October 17, 2018
@@ -130,6 +144,8 @@ Next going to start the responsive design.
 **Thoughts:**: Currently I am going through the tutorials to basically learn more front end concept. It is becomming very difficult to code and do day job regularly.
 
 **Link to work:** [Natours Project](https://github.com/mrdua/Advance-CSS-and-Sass/tree/master/Natours)
+
+
 ---
 
 ### Day 15: October 16, 2018
@@ -142,6 +158,7 @@ Next going to start the responsive design.
 **Thoughts:**: Today, all my learning is done during my travel in train. Really utilized my time while travelling and watch advance css tutorials.
 
 **Link to work:** [Natours Project](https://github.com/mrdua/Advance-CSS-and-Sass/tree/master/Natours) | [ Stacked Image Gallery](https://codepen.io/hsdua2304/pen/OBxKOZ)
+
 
 ---
 
