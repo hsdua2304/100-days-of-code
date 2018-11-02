@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 28: November 1, 2018
+
+**Today's Progress**
+1. Started with CSS Grid Tutorials
+
+**Thoughts:**: Started practicing the css grid from the Jonas tutorials on Advance CSS and SASS.
+
+**Link to work:** [CSS Grid - Practice](https://github.com/mrdua/Advance-CSS-and-Sass/tree/master/CSSGrid)
+
+---
+
 ### Day 27: October 31, 2018
 
 **Today's Progress**
